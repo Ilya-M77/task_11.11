@@ -1,0 +1,19 @@
+.input-group-text {
+  font-weight: bold;
+}
+
+.form-control {
+  font-weight: bold;
+}
+
+.no-gutters {
+  margin-left: 5px;
+}
+
+.col {
+  margin-top: 5px;
+}
+
+.card {
+  padding: 0;
+}
